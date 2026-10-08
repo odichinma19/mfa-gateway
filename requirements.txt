@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pyotp
+pydantic[email]
+qrcode
+pillow
+pytest
+httpx
